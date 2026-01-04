@@ -1,3 +1,6 @@
-def greet():
-    print("Hello! This is my first function on PC.")
-greet()
+def greet(name):
+    print("Hello", name)
+    print("Welcome to python with Echo!")
+
+greet("Aaryan")
+greet("Coder")
