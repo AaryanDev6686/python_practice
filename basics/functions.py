@@ -4,3 +4,8 @@ def greet(name):
 
 greet("Aaryan")
 greet("Coder")
+
+def add(a,b):
+    return a+b
+result = add(5,7)
+print("The result is", result)
