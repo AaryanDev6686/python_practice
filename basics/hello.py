@@ -1,1 +1,0 @@
-print("Hello Aaryan, Python on PC is ready!")
